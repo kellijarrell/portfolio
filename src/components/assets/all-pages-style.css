@@ -1,0 +1,29 @@
+* {
+
+    font-family: 'Pathway Gothic One', sans-serif;
+    letter-spacing: 3px;
+}
+
+body {
+ background-color: black;
+}
+
+footer {
+
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(44, 44, 44);
+    color: white;
+    text-align: center;
+}
+
+.gitBtn {
+    color: white;
+  }
+  
+  .gitBtn i:hover {
+    font-size: 20px;
+    transition: all .3s ease-in-out;
+  }
+
