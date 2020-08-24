@@ -1,5 +1,6 @@
 .jumbotron {
-    background-image: url("https://static01.nyt.com/images/2018/03/27/opinion/27horowitz2/27horowitz2-superJumbo-v2.jpg");
+
+    background-color: black;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -11,6 +12,8 @@
     display:flex;
     justify-content: center;
     align-items: center;
+    margin-bottom: -20px;
+    
   
   }
 
