@@ -39,11 +39,11 @@ function NavBar() {
         id="navbarNav">
         <ul className="navbar-nav ml-auto">
 
-          <Link to="/" className={location.pathname === "/" ? "nav-link active" : "nav-link"}>
+          <Link to="/portfolio/" className={location.pathname === "/portfolio/" ? "nav-link active" : "nav-link"}>
             Portfolio |
                 </Link>
 
-          <Link to="/about" className={location.pathname === "/about" ? "nav-link active" : "nav-link"}>
+          <Link to="/portfolio/about" className={location.pathname === "/portfolio/about" ? "nav-link active" : "nav-link"}>
             About / Contact |
                 </Link>
 
