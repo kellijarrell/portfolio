@@ -19,7 +19,7 @@ function NavBar() {
       <a
         id="nav"
         className="navbar-brand"
-        href="/">
+        href="/portfolio">
         Kelli Jarrell
         </a>
       <button
