@@ -29,6 +29,7 @@ function Card(props) {
                             </p>
                         <a 
                         href={props.url} 
+                        target="_blank"
                         className="btn btn-outline-light">
                             View Here
                             </a>
