@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.5f567e1e.chunk.css",
+    "main.js": "/portfolio/static/js/main.ca96e4d7.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.ca96e4d7.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.0e20f7ea.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.0e20f7ea.js.map",
+    "static/js/2.3ddb3eb2.chunk.js": "/portfolio/static/js/2.3ddb3eb2.chunk.js",
+    "static/js/2.3ddb3eb2.chunk.js.map": "/portfolio/static/js/2.3ddb3eb2.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.3cdba29e8d1ad531651ddf9f7c531e2d.js": "/portfolio/precache-manifest.3cdba29e8d1ad531651ddf9f7c531e2d.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.5f567e1e.chunk.css.map": "/portfolio/static/css/main.5f567e1e.chunk.css.map",
+    "static/js/2.3ddb3eb2.chunk.js.LICENSE.txt": "/portfolio/static/js/2.3ddb3eb2.chunk.js.LICENSE.txt",
+    "static/media/NamePlate.svg": "/portfolio/static/media/NamePlate.aa739dcd.svg",
+    "static/media/checkpoint-controller-hover.gif": "/portfolio/static/media/checkpoint-controller-hover.eaacd67e.gif",
+    "static/media/checkpoint-controller.png": "/portfolio/static/media/checkpoint-controller.fffeaaf8.png",
+    "static/media/covid-peach-hover.gif": "/portfolio/static/media/covid-peach-hover.3626cef6.gif",
+    "static/media/covid-peach.png": "/portfolio/static/media/covid-peach.086400cb.png",
+    "static/media/headshot2.jpg": "/portfolio/static/media/headshot2.234214f5.jpg",
+    "static/media/weather-sun-hover.gif": "/portfolio/static/media/weather-sun-hover.3bc26c73.gif",
+    "static/media/weather-sun.png": "/portfolio/static/media/weather-sun.39de3497.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e20f7ea.js",
+    "static/js/2.3ddb3eb2.chunk.js",
+    "static/css/main.5f567e1e.chunk.css",
+    "static/js/main.ca96e4d7.chunk.js"
+  ]
+}
